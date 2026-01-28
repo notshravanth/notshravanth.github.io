@@ -13,7 +13,7 @@ Education
 ======
 * Research Fellow (PhD), M.S. in Language Technologies (AI/ML), Carnegie Mellon University, 2025
 * M.S. in Computer and Information Science, University of Pittsburgh, 2025
-* B.S. in Mechanical Engineerning (Minor in Computer Science and Finance), Bangalore Institute of Technology, 2022
+* B.S. in Engineerning (Minor in Computer Science and Finance), Bangalore Institute of Technology, 2022
 
 Work experience
 ======
@@ -23,14 +23,20 @@ Work experience
   * Facilitated over 20 stakeholder meetings to align project deliverables, ensuring clear communication and on-time completion of all project phases.
   * Enhanced algorithm efficiency within the application by 25% through fine-tuning, resulting in an exact match for user-defined goals and ensuring delivery of a robust and ethical AI system.
 
+* Quantitative Research Intern
+  * Chicago Trading Company, 2025 - 2025
+  * Examined the Systematic Options Market Making desk’s auction responses and made recommendations for improving them; forward-tested to determine how much of the theoretical 1500% PnL increase could be captured in production.
+  * Developed PubSub messaging protocol in C++ for visibility-providing components of different trading applications and completed end-to-end testing in QA environment.
+  * Investigated trading signals in the ES/EOM-SPX/W options’ implied volatility spread.
+
 * Co-Founder and CTO 
-  * Basel Practitioners Pvt. Ltd., 2022 - 2023
-  * Led a cross-functional team to enhance financial data analysis using a Knowledge-Graph based Multi-Agent LLMs framework, resulting in a 30% increase in data processing efficiency
+  * Basel Practitioners Pvt. Ltd., 2021 - 2023
+  * Led a cross-functional team to enhance financial data analysis using a Knowledge-Graph based Multi-Agent LLMs framework, resulting in a 30% increase in data processing efficiency.
   * Integrated advanced AI technologies, such as dynamic knowledge graphs and AI-generated avatars, to improve financial advisory services, increasing the advisory accuracy by 15%.
   * Developed a continuous data ingestion system for the AI model, ensuring up-to-date financial trend analysis and overcoming the static knowledge limitations observed in models like ChatGPT.
 
 * Research Intern
-  * Hindustan Aeronautics Ltd., 2021 - 2021
+  * Hindustan Aeronautics Ltd., 2020 - 2020
   * Deployed hybridized particle swarm optimization and CNN algorithms to automate navigation of transport mobile robots.
   * Focused on path-planning in an aircraft assembly setting, demonstrating practical computer vision and deep learning applications under real-time constraints.
   * Accelerated the project’s prototype validation by implementing robust object detection techniques and optimizing CNN layers for low-latency processing.
@@ -72,5 +78,6 @@ Accolades and Achievements
 ======
 * International Swimmer, FINA, SFI, SAI, KSA
   * Olympic qualifier. Represented and won for my country in various events such as World School Games, World Championships, Asian Swimming Championships, Open Water World Cup. National Gold Medalist (300+ medals). Received the best sportsman award for batch 2022 for winning the college overall championship in NCAA.
+    
 
 
