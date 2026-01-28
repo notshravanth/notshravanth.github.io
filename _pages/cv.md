@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Research Fellow (PhD), in Language Technologies Institute, Carnegie Mellon University, Present
+* Research Fellow (PhD), M.S. in Language Technologies (AI/ML), Carnegie Mellon University, 2025
 * M.S. in Computer and Information Science, University of Pittsburgh, 2025
 * B.S. in Mechanical Engineerning (Minor in Computer Science and Finance), Bangalore Institute of Technology, 2022
 
@@ -23,7 +23,7 @@ Work experience
   * Facilitated over 20 stakeholder meetings to align project deliverables, ensuring clear communication and on-time completion of all project phases.
   * Enhanced algorithm efficiency within the application by 25% through fine-tuning, resulting in an exact match for user-defined goals and ensuring delivery of a robust and ethical AI system.
 
-* Data Scientist (Co-Founder) 
+* Co-Founder and CTO 
   * Basel Practitioners Pvt. Ltd., 2022 - 2023
   * Led a cross-functional team to enhance financial data analysis using a Knowledge-Graph based Multi-Agent LLMs framework, resulting in a 30% increase in data processing efficiency
   * Integrated advanced AI technologies, such as dynamic knowledge graphs and AI-generated avatars, to improve financial advisory services, increasing the advisory accuracy by 15%.
