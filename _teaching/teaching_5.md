@@ -2,7 +2,7 @@
 title: "Guest Instructor for 6.390: Introduction to Machine Learning"
 type: "Graduate Course"
 venue: "Massachusetts Institute of Technology"
-date: May 2024 - Aug 2024
+date: May 2025 - Aug 2025
 location: "Cambridge, MA"
 ---
 
