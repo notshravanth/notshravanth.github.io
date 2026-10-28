@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Research Fellow (PhD), M.S. in Language Technologies (AI/ML), Carnegie Mellon University, 2025
+
 * M.S. in Computer and Information Science, University of Pittsburgh, 2025
 * B.S. in Engineerning (Minor in Computer Science and Finance), Bangalore Institute of Technology, 2022
 
