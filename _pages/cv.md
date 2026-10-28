@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 
-* M.S. in Computer and Information Science, University of Pittsburgh, 2025
-* B.S. in Engineerning (Minor in Computer Science and Finance), Bangalore Institute of Technology, 2022
+* M.S. in Computer and Information Science
+* B.S. in Engineerning (Minor in Computer Science and Finance)
 
 Work experience
 ======
